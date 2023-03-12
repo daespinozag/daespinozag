@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 👥 Above all, I am interested in participating in projects that have a social meaning. I think that technology should improve people's quality of life.
 
-🗒️ I invite you to read my blog 👉 https://humanokinesis.medium.com
+🗒️ I invite you to read my blog 👉 https://fisiobionics.medium.com
