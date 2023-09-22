@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-🌱I´m currently learning XR Development. I'm delving into programming with C#, C++, Unity, Unreal and Python.
+I'm delving into programming with C#, C++, Unity, Unreal and Python.
 
 ⚕️I have a background as a physical therapist and I am beginning to venture into the world of development with the intention of linking the development of assistance applications for rehab therapy to my clinical practice, but I do not rule out participating in other projects designing or programming immersive environments for different solutions. 
 
 👥 Above all, I am interested in participating in projects that have a social meaning. I think that technology should improve people's quality of life.
 
 🗒️ I invite you to read my blog 👉 https://fisiobionics.medium.com
+
+-->
+
+🌱I´m currently learning XR Development. 
