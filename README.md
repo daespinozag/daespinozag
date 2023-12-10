@@ -23,4 +23,4 @@ I'm delving into programming with C#, C++, Unity, Unreal and Python.
 
 -->
 
-🌱I´m currently learning XR Development. 
+Looking for meeting points between physical rehabilitation and technological development. Currently, I am studying the last year of my Physiotherapy degree and simultaneously I am completing a Diploma in Bionic Technology at P4H Bionics. My interest in assistive technology and its applications in physical rehabilitation has led me to explore ways to integrate it into my practice. In the medium term, I want to embark on research and development of this type of products.
